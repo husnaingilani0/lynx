@@ -186,21 +186,17 @@ Users of Lynx are prohibited from engaging in the following activities:
 
 Lynx prioritizes user privacy. As a user, you agree to:
 
-    Handle all personal and confidential information with care and respect.
     Avoid sharing sensitive or private data without appropriate consent and authorization.
-    Use encryption and other security tools to protect sensitive data when appropriate.
 
 ### 5. Account Usage
 
     Each user is responsible for maintaining the security and confidentiality of their account.
     Users may not create multiple accounts for the purpose of evading this policy, engaging in fraud, or circumventing any limitations imposed by Lynx services.
-    Users should only use Lynx for the purposes it was intended. Commercial use outside of permitted business activities or abuse of service features for non-intended purposes is prohibited.
 
 ### 6. Monitoring and Enforcement
 
 Lynx reserves the right to:
 
-    Monitor activity on its platform to ensure compliance with this policy.
     Investigate any suspected violations and take corrective actions, including but not limited to suspending or terminating accounts, removing content, or reporting violations to authorities.
     Cooperate with law enforcement agencies in cases of unlawful activity.
 
