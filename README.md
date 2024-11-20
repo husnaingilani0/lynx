@@ -42,22 +42,21 @@ All of your files, documents, photos, and other data that you upload to our serv
 ## 5. Data Retention
 
 We retain your personal data for as long as your account is active or as long as needed to provide you with the services you have requested. If you request deletion of your account, we will remove your data as per our policy.
-6. Security
+## 6. Security
 
 We implement strong technical and organizational measures to protect your data from unauthorized access, alteration, disclosure, or destruction. These measures include encryption, secure storage, and access control.
-7. Your Rights
+## 7. Your Rights
 
     You have the right to access, update, or delete the personal information we hold about you.
     You can contact us at any time to request access to your data or to exercise your rights under applicable data protection laws.
 
-8. Third-Party Links
+## 8. Third-Party Links
 
 Our platform may contain links to third-party websites. We are not responsible for the privacy practices or content of these external sites. We encourage you to review the privacy policies of any third-party sites you visit.
-9. Changes to This Privacy Policy
+## 9. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
-For any questions regarding your privacy, please contact us at [contact information].
 
 
 #Terms Of Service
