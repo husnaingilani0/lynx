@@ -125,3 +125,88 @@ We reserve the right to update or modify these Terms of Service at any time. Any
 # Contact Info
 
 Please Email For account deletetion & Support: info@analyticscamp.org
+
+
+
+
+# Lynx Acceptable Use Policy
+
+Effective Date: 20.11.2024
+
+Welcome to Lynx, a privacy-focused alternative to GSuite. We are committed to providing a secure, ethical, and user-centric environment. By using Lynx services, you agree to abide by the terms set out in this Acceptable Use Policy (AUP). This policy is designed to protect both individual users and the wider community by setting clear guidelines for acceptable use.
+### 1. General Guidelines
+
+Lynx is designed to foster a collaborative, professional, and secure environment. As a user, you agree to:
+
+    Use Lynx services solely for lawful, ethical, and legitimate purposes.
+    Comply with all applicable local, state, national, and international laws and regulations.
+    Respect the privacy, confidentiality, and rights of others.
+
+### 2. Prohibited Activities
+
+Users of Lynx are prohibited from engaging in the following activities:
+###### a) Illegal Activities
+
+    Engaging in or facilitating any activity that violates applicable laws or regulations, including but not limited to intellectual property, privacy, cybersecurity, and anti-money laundering laws.
+
+###### b) Malicious Use
+
+    Uploading, transmitting, or distributing malicious software (malware), viruses, worms, ransomware, or other harmful code.
+    Attempting unauthorized access to Lynx servers, networks, or accounts.
+
+###### c) Harmful Content
+
+    Using Lynx services to create, share, or distribute content that is obscene, defamatory, harassing, discriminatory, hateful, or incites violence.
+    Sending unsolicited communications (spam) or mass unsolicited emails (email phishing) through Lynx’s platforms.
+
+###### d) Impersonation and Fraud
+
+    Impersonating any individual or organization, or attempting to deceive others regarding the origin of communications, including but not limited to phishing, identity theft, or misrepresentation.
+
+###### e) Disruptive Behavior
+
+    Engaging in actions that disrupt, damage, or interfere with the normal functioning of Lynx’s services or the services of third parties, including denial-of-service (DoS) or distributed denial-of-service (DDoS) attacks.
+
+###### f) Data Privacy Violations
+
+    Accessing, storing, or sharing personal or sensitive data of individuals without proper consent.
+    Violating the privacy or data protection rights of others in accordance with relevant data protection laws (e.g., GDPR, CCPA).
+
+###### g) Infringing Intellectual Property
+
+    Using Lynx services in a way that infringes or violates the intellectual property rights (copyrights, patents, trademarks, etc.) of any third party.
+
+### 3. Security Responsibilities
+
+    Protect your account and personal information by using strong, unique passwords and enabling two-factor authentication (2FA).
+    Do not share your login credentials or grant access to your Lynx account to unauthorized individuals.
+    Immediately notify Lynx if you become aware of any potential security breach or unauthorized use of your account.
+
+### 4. Privacy and Confidentiality
+
+Lynx prioritizes user privacy. As a user, you agree to:
+
+    Handle all personal and confidential information with care and respect.
+    Avoid sharing sensitive or private data without appropriate consent and authorization.
+    Use encryption and other security tools to protect sensitive data when appropriate.
+
+### 5. Account Usage
+
+    Each user is responsible for maintaining the security and confidentiality of their account.
+    Users may not create multiple accounts for the purpose of evading this policy, engaging in fraud, or circumventing any limitations imposed by Lynx services.
+    Users should only use Lynx for the purposes it was intended. Commercial use outside of permitted business activities or abuse of service features for non-intended purposes is prohibited.
+
+### 6. Monitoring and Enforcement
+
+Lynx reserves the right to:
+
+    Monitor activity on its platform to ensure compliance with this policy.
+    Investigate any suspected violations and take corrective actions, including but not limited to suspending or terminating accounts, removing content, or reporting violations to authorities.
+    Cooperate with law enforcement agencies in cases of unlawful activity.
+
+### 7. Consequences of Violation
+
+Violation of this Acceptable Use Policy may result in immediate suspension or termination of your account, depending on the severity of the infraction. In cases of illegal activity, we may report the violation to appropriate authorities.
+### 8. Modifications to this Policy
+
+Lynx may update or modify this Acceptable Use Policy at any time. Any changes will be communicated to users in a timely manner. Continued use of Lynx services after such changes constitutes your acceptance of the updated policy.
