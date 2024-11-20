@@ -54,7 +54,7 @@ We implement strong technical and organizational measures to protect your data f
 ### 8. Third-Party Links
 
 Our platform may contain links to third-party websites. We are not responsible for the privacy practices or content of these external sites. We encourage you to review the privacy policies of any third-party sites you visit.
-## 9. Changes to This Privacy Policy
+### 9. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
