@@ -28,7 +28,7 @@ We collect the following personal information from you:
 ### 2. Data We Do Not See
 
 All of your files, documents, photos, and other data that you upload to our service are encrypted. As the service provider, we do not have access to the content of your data. We cannot read, view, or access any of your files or documents.
-3. Data Processing and Use
+### 3. Data Processing and Use
 
     We do not sell, rent, or share your personal information (such as your name, username, or email address) with any third party.
     We process your personal information solely for the purpose of providing you with access to our services.
