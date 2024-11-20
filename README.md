@@ -49,7 +49,6 @@ We implement strong technical and organizational measures to protect your data f
 
     You have the right to access, update, or delete the personal information we hold about you.
     After deleting your account all data will be permanently removed from our servers thus you will not be able to access it/manage it as it will no longer exist.
-    You can contact us at any time to request access to your data or to exercise your rights under applicable data protection laws.
 
 ### 8. Third-Party Links
 
