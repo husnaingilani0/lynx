@@ -12,10 +12,3 @@ Can't i use google? I think we all know how PRIVACY FREINDLY google is. Training
 
 We are improving day by day, we are'nt the best yet, but that's what mission 2028 is for 😜. We're building a community along the way and we're here for the long run. So buckle up and get ready. Learn More: https://analyticscamp.org
 
-
-![image](https://github.com/user-attachments/assets/42a17c19-fa1c-4e50-a8fc-f4aacf7206a5)
-BRUHH!!
-![image](https://github.com/user-attachments/assets/97c7333c-c8d5-46ff-8aa1-c68bc45c8f65)
-BRUHHH!!!
-
-
