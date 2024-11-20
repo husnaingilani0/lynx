@@ -59,5 +59,64 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 
 
-#Terms Of Service
-You can only use that of which 
+# Terms of Service (TOS) for Lynx
+
+Last updated: 20.11.2024
+
+Welcome to Lynx! By using our services, you agree to the following terms and conditions. Please read them carefully.
+## 1. Acceptance of Terms
+
+By accessing or using our services, you agree to comply with these Terms of Service and all applicable laws and regulations. If you do not agree with these terms, do not use our services.
+## 2. Eligibility
+
+    You must be at least 18 years of age to use our services.
+    By creating an account, you confirm that the information you provide is accurate, current, and complete.
+
+## 3. Account Management
+
+    You are responsible for maintaining the confidentiality of your account and login credentials.
+    You agree to notify us immediately if you believe your account has been compromised.
+    We reserve the right to suspend or terminate your account if you violate these Terms.
+
+## 4. Service Use
+
+    You agree to use our services only for lawful purposes and in accordance with our Acceptable Use Policy.
+    You must not use our services for any illegal or harmful activities, including but not limited to uploading malware, spamming, or infringing on intellectual property rights.
+
+## 5. Data Security
+
+    Your data is encrypted, and we do not have access to the contents of your uploaded files or documents.
+    We only have access to your name, username, and email address, which are visible to us, but we do not share or sell this information to third parties.
+
+## 6. Payments and Subscription
+
+    You agree to pay any fees associated with your use of our services as outlined on our website.
+    Pricing and subscription plans are clearly listed on our website. Payment is processed through secure third-party services.
+    We may offer free trials, after which charges may apply unless you cancel your subscription.
+
+## 7. Data Deletion
+
+    Upon request, we will delete your account and all associated data. However, we cannot access or view the content of your files and documents.
+    You can contact us at any time to request the deletion of your account.
+
+## 8. Limitation of Liability
+
+    Our services are provided "as is" and without any warranties of any kind. We do not guarantee uninterrupted access or error-free performance.
+    We are not responsible for any damages arising from the use of our services or any data loss.
+    In no event will we be liable for any indirect, incidental, special, or consequential damages.
+
+## 9. Indemnification
+
+You agree to indemnify and hold harmless Lynx, its affiliates, employees, and partners from any claims, losses, or damages arising from your use of the service, violation of these Terms, or infringement of third-party rights.
+## 10. Termination
+
+We reserve the right to suspend or terminate your account if you violate these Terms of Service. You can also terminate your account at any time by contacting us.
+## 11. Dispute Resolution
+
+    Any disputes will be resolved through arbitration, and you agree to resolve disputes in the jurisdiction specified by us.
+    This agreement is governed by the laws of [your jurisdiction].
+
+## 12. Changes to Terms of Service
+
+We reserve the right to update or modify these Terms of Service at any time. Any changes will be posted on this page, and you will be notified when applicable.
+
