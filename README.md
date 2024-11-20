@@ -14,4 +14,4 @@ We are improving day by day, we are'nt the best yet, but that's what mission 202
 
 
 # Privacy Policy
-We as lynx the service provider, do not sell any of your data. none of it. Furthermore only your name and email address can be seen by us. The rest of all your data from files to documents to photos is encrypted and we as the service provider cannot see any of it's contents. We can delete it but not see it. And we as the service provider (Lynx) DONOT sell you data to entity. This is how we process data but for more details check the nextcoud privacy policy.
+We as lynx the service provider, do not sell any of your data. none of it. Furthermore only your name and email address can be seen by us. The rest of all your data from files to documents to photos is encrypted and we as the service provider cannot see any of it's contents. We can delete it but not see it. And we as the service provider (Lynx) DONOT sell you data to entity. This is how we process data but for more details specifically about the software check the nextcoud privacy policy.
