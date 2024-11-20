@@ -12,3 +12,7 @@ Can't i use google? I think we all know how PRIVACY FREINDLY google is. Training
 
 We are improving day by day, we are'nt the best yet, but that's what mission 2028 is for 😜. We're building a community along the way and we're here for the long run. So buckle up and get ready. Learn More: https://analyticscamp.org
 
+
+# Privacy Policy
+We as lynx the service provider, do not sell any of your data. none of it. Furthermore only your name and email address can be seen by us. The rest of all your data from files to documents to photos is encrypted and we as the service provider cannot access any of it.
+
