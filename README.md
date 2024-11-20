@@ -17,7 +17,7 @@ We are improving day by day, we are'nt the best yet, but that's what mission 202
 Last updated: 20.11.2024
 
 At Lynx, we value your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we collect, use, and protect your information.
-1. Information We Collect
+## 1. Information We Collect
 
 We collect the following personal information from you:
 
@@ -25,7 +25,7 @@ We collect the following personal information from you:
     Username: Your chosen username on the platform.
     Email Address: Your email address for communication purposes.
 
-2. Data We Do Not See
+## 2. Data We Do Not See
 
 All of your files, documents, photos, and other data that you upload to our service are encrypted. As the service provider, we do not have access to the content of your data. We cannot read, view, or access any of your files or documents.
 3. Data Processing and Use
@@ -34,12 +34,12 @@ All of your files, documents, photos, and other data that you upload to our serv
     We process your personal information solely for the purpose of providing you with access to our services.
     We may delete your data upon request, but we cannot see or access its contents.
 
-4. Encryption
+## 4. Encryption
 
     All of your data is securely encrypted on our platform. This means that even we, as the service provider, cannot view your data.
     We use Nextcloud’s secure technology for data encryption, ensuring the confidentiality and integrity of your information. For further information on Nextcloud’s privacy practices, please refer to their Privacy Policy.
 
-5. Data Retention
+## 5. Data Retention
 
 We retain your personal data for as long as your account is active or as long as needed to provide you with the services you have requested. If you request deletion of your account, we will remove your data as per our policy.
 6. Security
