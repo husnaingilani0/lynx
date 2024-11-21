@@ -16,7 +16,7 @@ We are improving day by day, we are'nt the best yet, but that's what mission 202
 About things on the website
 Font Provider: Bunny Fonts
 Icons: Luicde
- ###### Check out there Privacy Policies Aswell
+ ##### Check out there Privacy Policies Aswell
 # Privacy Policy
 Last updated: 20.11.2024
 
