@@ -13,10 +13,10 @@ Can't i use google? I think we all know how PRIVACY FREINDLY google is. Training
 We are improving day by day, we are'nt the best yet, but that's what mission 2028 is for 😜. We're building a community along the way and we're here for the long run. So buckle up and get ready. Learn More: https://analyticscamp.org
 
 # More Details
-About things on the website
-Font Provider: Bunny Fonts
-Icons: Luicde
- ##### Check out there Privacy Policies Aswell
+About things on the website.
+Font Provider: Bunny Fonts.
+Icons: Luicde.
+ #### Check out there Privacy Policies Aswell
 # Privacy Policy
 Last updated: 20.11.2024
 
