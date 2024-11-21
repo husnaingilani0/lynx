@@ -23,7 +23,8 @@ We collect the following personal information from you:
 
     Name: Your full name.
     Username: Your chosen username on the platform.
-    Email Address: Your email address for communication purposes.
+    Email Address: Your email address for communication and account purposes.
+    All Information Added During Checkout & Account Creation: for service providing reasons.
 
 ### 2. Data We Do Not See
 
@@ -90,7 +91,7 @@ By accessing or using our services, you agree to comply with these Terms of Serv
 ### 5. Data Security
 
     Your data is encrypted, and we do not have access to the contents of your uploaded files or documents.
-    We only have access to your name, username, and email address, which are visible to us, but we do not share or sell this information to third parties.
+    We only see your name, username, and email address, all information added during checkout & account creation, but we do not share or sell this information to third parties.
 
 ### 6. Payments and Subscription
 
