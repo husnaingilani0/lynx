@@ -35,7 +35,7 @@ We collect the following personal information from you:
 
 ### 2. Data We Do Not See
 
-All of your files, documents, photos, and other data that you upload to our service are encrypted. As the service provider, we do not have access to the content of your data. We cannot read, view, or access any of your files or documents.
+Your files, documents, photos, and other data that you upload to our service are encrypted.  As the service provider, we do not have access to the content of your data. We cannot read, view, or access any of your files or documents.
 ### 3. Data Processing and Use
 
     We do not sell, rent, or share your personal information (such as your name, username, or email address) with any third party.
@@ -44,7 +44,7 @@ All of your files, documents, photos, and other data that you upload to our serv
 
 ### 4. Encryption
 
-    All of your data is securely encrypted on our platform. This means that even we, as the service provider, cannot view your data.
+    your data is securely encrypted on our platform. This means that even we, as the service provider, cannot view your data.
     We use Nextcloud’s secure technology for data encryption, ensuring the confidentiality and integrity of your information. For further information on Nextcloud’s privacy practices, please refer to their Privacy Policy.
 
 ### 5. Data Retention
