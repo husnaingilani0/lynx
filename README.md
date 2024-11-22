@@ -17,7 +17,7 @@ About things on the website.
 Font Provider: Bunny Fonts.
 Icons: Luicde.
 AI Api Provider: Groq.
-Office Editing: OnlyOffice
+Office Editing: OnlyOffice.
 Nextcloud
  #### CHECK OUT THERE PRIVACY POLICIES ASWELL
 # Privacy Policy
