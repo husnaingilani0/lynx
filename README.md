@@ -10,13 +10,15 @@ That's why lynx came into existence, to make privacy, affordable and avaliable t
 
 Can't i use google? I think we all know how PRIVACY FREINDLY google is. Training there AI 😈 on my babies photos. NEVER! Not For Me (or for you).
 
-We are improving day by day, we are'nt the best yet, but that's what mission 2028 is for 😜. We're building a community along the way and we're here for the long run. So buckle up and get ready. Learn More: https://analyticscamp.org
+We are improving day by day, we are not the best yet, but that's what mission 2028 is for 😜. We're building a community along the way and we're here for the long run. So buckle up and get ready. Learn More: https://analyticscamp.org
 
 # More Details
 About things on the website.
 Font Provider: Bunny Fonts.
 Icons: Luicde.
 AI Api Provider: Groq.
+Office Editing: OnlyOffice
+Nextcloud
  #### CHECK OUT THERE PRIVACY POLICIES ASWELL
 # Privacy Policy
 Last updated: 20.11.2024
